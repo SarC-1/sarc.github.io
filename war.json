@@ -1,0 +1,112 @@
+{
+      "datos":[
+      {
+         "warframes":{
+            "Link":"Oberon",
+            "Energy":150,
+            "Health":125,
+            "Name":"Oberon",
+            "Passive":"Allied pets receive 25% Health, Armor and Shield buffs. In addition, your pet receives an instant revive per mission.",
+            "Conclave":true,
+            "Sex":"Male",
+            "Progenitor":"Toxin",
+            "InternalName":"/Lotus/Powersuits/Paladin/Paladin",
+            "Armor":175,
+            "AuraPolarity":"V",
+            "Subsumed":"Smite",
+            "Themes":"Nature, Paladin",
+            "Portrait":"OberonIcon272.png",
+            "Sprint":1,
+            "Shield":100,
+            "Polarities":[
+               "V",
+               "V"
+            ],
+            "Introduced":"11.5",
+            "Image":"OberonNewLook.png"
+         },
+         "id": "1"
+      },
+      {
+         "warframes":{
+            "Link":"Frost",
+               "Energy":100,
+               "Health":100,
+               "Name":"Frost",
+               "Passive":"Striking Frost with a melee attack has a 10% chance to freeze the attacker for 20s.",
+               "Conclave":true,
+               "Sex":"Male",
+               "Progenitor":"Cold",
+               "InternalName":"/Lotus/Powersuits/Frost/Frost",
+               "Armor":300,
+               "AuraPolarity":"D",
+               "Subsumed":"Ice Wave",
+               "Themes":"Ice Elemental",
+               "Portrait":"FrostIcon272.png",
+               "Sprint":0.95,
+               "Shield":150,
+               "Polarities":[
+                  "Bar",
+                  "D"
+               ],
+               "Introduced":"6",
+               "Image":"FrostNewLook.png"
+         },
+         "id": "2"  
+      },
+      {
+         "warframes":{
+            "Link":"Ember",
+               "Energy":150,
+               "Health":100,
+               "Name":"Ember",
+               "Passive":"Receive 5% Ability Strength for every enemy within 50m engulfed in flame[[File:Heat_b.png|x16px]].",
+               "Conclave":false,
+               "Sex":"Female",
+               "Progenitor":"Heat",
+               "InternalName":"/Lotus/Powersuits/Ember/Ember",
+               "Armor":125,
+               "AuraPolarity":"V",
+               "Subsumed":"Fire Blast",
+               "Themes":"Fire Elemental",
+               "Portrait":"EmberIcon272.png",
+               "Sprint":1.1,
+               "Shield":100,
+               "Polarities":[
+                  "Bar",
+                  "Bar"
+               ],
+               "Introduced":"Vanilla",
+               "Image":"EmberNewLook.png"
+         },
+         "id": "3"
+      },
+      {
+         "warframes":{
+            "Link":"Valkyr",
+               "Energy":100,
+               "Health":100,
+               "Name":"Valkyr",
+               "Passive":"Recover 50% faster from being knocked down.",
+               "Conclave":true,
+               "Sex":"Female",
+               "Progenitor":"Electricity",
+               "InternalName":"/Lotus/Powersuits/Berserker/Berserker",
+               "Armor":600,
+               "AuraPolarity":"V",
+               "Subsumed":"Warcry",
+               "Themes":"Berserker, Feline",
+               "Portrait":"ValkyrIcon272.png",
+               "Sprint":1.1,
+               "Shield":50,
+               "Polarities":[
+                  "V",
+                  "V"
+               ],
+               "Introduced":"11",
+               "Image":"ValkyrNewLook.png"
+         },
+         "id": "4"
+      }
+   ]
+}
