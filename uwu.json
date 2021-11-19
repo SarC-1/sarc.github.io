@@ -1,0 +1,301 @@
+{
+      "datos":[
+      {
+         "results":{
+            "Link":"Oberon",
+            "Energy":150,
+            "Health":125,
+            "Name":"Oberon",
+            "Passive":"Las mascotas aliadas reciben un 25% de beneficios de salud, armadura y escudo. Además, tu mascota recibe una reanimación instantánea por misión.",
+            "Conclave":true,
+            "Sex":"Male",
+            "Progenitor":"Toxin",
+            "InternalName":"/Lotus/Powersuits/Paladin/Paladin",
+            "Armor":175,
+            "AuraPolarity":"V",
+            "Subsumed":"Smite",
+            "Themes":"Nature, Paladin",
+            "Portrait":"OberonIcon272.png",
+            "Sprint":1,
+            "Shield":100,
+            "Polarities":[
+               "V",
+               "V"
+            ],
+            "Introduced":"11.5",
+            "Image":"OberonNewLook.png"
+         },
+         "id": "1"
+      },
+      {
+         "results":{
+            "Link":"Frost",
+               "Energy":100,
+               "Health":100,
+               "Name":"Frost",
+               "Passive":"Golpear a Frost con un ataque cuerpo a cuerpo tiene un 10% de probabilidad de congelar al atacante durante 20 segundos.",
+               "Conclave":true,
+               "Sex":"Male",
+               "Progenitor":"Cold",
+               "InternalName":"/Lotus/Powersuits/Frost/Frost",
+               "Armor":300,
+               "AuraPolarity":"D",
+               "Subsumed":"Ice Wave",
+               "Themes":"Ice Elemental",
+               "Portrait":"FrostIcon272.png",
+               "Sprint":0.95,
+               "Shield":150,
+               "Polarities":[
+                  "Bar",
+                  "D"
+               ],
+               "Introduced":"6",
+               "Image":"FrostNewLook.png"
+         },
+         "id": "2"  
+      },
+      {
+         "results":{
+            "Link":"Ember",
+               "Energy":150,
+               "Health":100,
+               "Name":"Ember",
+               "Passive":"Recibiendo un estado de calor regenerará la energía por la duración del estado de efecto (10 de energía por segundo) e incrementa la fuerza de poder por 35%.",
+               "Conclave":false,
+               "Sex":"Female",
+               "Progenitor":"Heat",
+               "InternalName":"/Lotus/Powersuits/Ember/Ember",
+               "Armor":125,
+               "AuraPolarity":"V",
+               "Subsumed":"Fire Blast",
+               "Themes":"Fire Elemental",
+               "Portrait":"EmberIcon272.png",
+               "Sprint":1.1,
+               "Shield":100,
+               "Polarities":[
+                  "Bar",
+                  "Bar"
+               ],
+               "Introduced":"Vanilla",
+               "Image":"EmberNewLook.png"
+         },
+         "id": "3"
+      },
+      {
+         "results":{
+            "Link":"Valkyr",
+               "Energy":100,
+               "Health":100,
+               "Name":"Valkyr",
+               "Passive":"Recupera un 50% más rápido de ser derribado.",
+               "Conclave":true,
+               "Sex":"Female",
+               "Progenitor":"Electricity",
+               "InternalName":"/Lotus/Powersuits/Berserker/Berserker",
+               "Armor":600,
+               "AuraPolarity":"V",
+               "Subsumed":"Warcry",
+               "Themes":"Berserker, Feline",
+               "Portrait":"ValkyrIcon272.png",
+               "Sprint":1.1,
+               "Shield":50,
+               "Polarities":[
+                  "V",
+                  "V"
+               ],
+               "Introduced":"11",
+               "Image":"ValkyrNewLook.png"
+         },
+         "id": "4"
+      },
+      {
+         "results":{
+             "Link":"Nezha",
+             "Energy":150,
+             "Health":125,
+             "Name":"Nezha",
+             "Passive":"Deslízate un 60% más rápido y avanza un 35% más.",
+             "Conclave":true,
+             "Sex":"Male",
+             "Progenitor":"Heat",
+             "InternalName":"/Lotus/Powersuits/Nezha/Nezha",
+             "Armor":190,
+             "AuraPolarity":"Bar",
+             "Subsumed":"Fire Walker",
+             "Themes":"Third Lotus Prince",
+             "Portrait":"NezhaIcon272.png",
+             "Sprint":1.15,
+             "Shield":50,
+             "Polarities":[
+                "D",
+                "V"
+             ],
+             "Introduced":"18.1",
+             "Image":"NezhaNewLook.png"
+         },
+         "id": "5"  
+      },
+      {
+         "results":{
+             "Link":"Ash",
+             "Energy":100,
+             "Health":150,
+             "Name":"Ash",
+             "Passive":"Los chances de estado de sangrar de parte de Ash de cualquier fuente son 25% más mortales y duran 50% más.",
+             "Conclave":true,
+             "Sex":"Male",
+             "Progenitor":"Radiation",
+             "InternalName":"/Lotus/Powersuits/Ninja/Ninja",
+             "Armor":190,
+             "AuraPolarity":"V",
+             "Subsumed":"Shuriken",
+             "Themes":"Assassin, Ninja",
+             "Portrait":"AshIcon272.png",
+             "Sprint":1.15,
+             "Shield":100,
+             "Polarities":[
+                "V",
+                "V"
+             ],
+             "Introduced":"Vanilla",
+             "Image":"AshNewLook.png"
+         },
+         "id": "6"  
+      },
+      {
+         "results":{
+             "Link":"Excalibur",
+             "Energy":100,
+             "Health":100,
+             "Name":"Excalibur",
+             "Passive":"Excalibur inflige un 10% más de daño y ataca un 10% más rápido cuando empuña espadas.",
+             "Conclave":true,
+             "Sex":"Male",
+             "Progenitor":"Electricity",
+             "InternalName":"/Lotus/Powersuits/Excalibur/Excalibur",
+             "Armor":225,
+             "AuraPolarity":"None",
+             "Subsumed":"Radial Blind",
+             "Themes":"Swordsman",
+             "Portrait":"ExcaliburIcon272.png",
+             "Sprint":1,
+             "Shield":100,
+             "Polarities":[
+                "D",
+                "V"
+             ],
+             "Introduced":"Vanilla",
+             "Image":"ExcaliburNewLook.png"
+          },
+         "id": "7"  
+      },
+      {
+         "results":{
+             "Link":"Vauban",
+             "Energy":150,
+             "Health":100,
+             "Name":"Vauban",
+             "Passive":"Inflige un 25% de daño adicional a los enemigos incapacitados.",
+             "Conclave":false,
+             "Sex":"Male",
+             "Progenitor":"Heat",
+             "InternalName":"/Lotus/Powersuits/Trapper/Trapper",
+             "Armor":150,
+             "AuraPolarity":"Bar",
+             "Subsumed":"Tesla Nervos",
+             "Themes":"Combat Engineer",
+             "Portrait":"VaubanIcon272.png",
+             "Sprint":1,
+             "Shield":75,
+             "Polarities":[
+                "Bar",
+                "V"
+             ],
+             "Introduced":"7.11",
+             "Image":"VaubanNewLook.png"
+          },
+         "id": "8"  
+      },
+      {
+         "results":{
+             "Link":"Nekros",
+             "Energy":100,
+             "Health":100,
+             "Name":"Nekros",
+             "Passive":"Restaura 5 De salud con cada muerte enemiga en un radio de 10 m.",
+             "Conclave":true,
+             "Sex":"Male",
+             "Progenitor":"Toxin",
+             "InternalName":"/Lotus/Powersuits/Necro/Necro",
+             "Armor":100,
+             "AuraPolarity":"None",
+             "Subsumed":"Terrify",
+             "Themes":"Darkness, Necromancy",
+             "Portrait":"NekrosIcon272.png",
+             "Sprint":1.1,
+             "Shield":90,
+             "Polarities":[
+                "D",
+                "V"
+             ],
+             "Introduced":"10",
+             "Image":"NekrosNewLook.png"
+          },
+         "id": "9"  
+      },
+      {
+         "results":{
+             "Link":"Harrow",
+             "Energy":100,
+             "Health":100,
+             "Name":"Harrow",
+             "Passive":"Overshield cap doubled.",
+             "Conclave":true,
+             "Sex":"Male",
+             "Progenitor":"Magnetic",
+             "InternalName":"/Lotus/Powersuits/Priest/Priest",
+             "Armor":175,
+             "AuraPolarity":"Bar",
+             "Subsumed":"Condemn",
+             "Themes":"Monastic, Void Manipulation",
+             "Portrait":"HarrowIcon272.png",
+             "Sprint":1,
+             "Shield":150,
+             "Polarities":[
+                "D",
+                "Bar"
+             ],
+             "Introduced":"21",
+             "Image":"Harrow.png"
+          },
+         "id": "10"  
+      },
+      {
+         "results":{
+             "Link":"Banshee",
+             "Energy":150,
+             "Health":100,
+             "Name":"Banshee",
+             "Passive":"Todas las armas son silenciosas.",
+             "Conclave":true,
+             "Sex":"Female",
+             "Progenitor":"Electricity",
+             "InternalName":"/Lotus/Powersuits/Banshee/Banshee",
+             "Armor":100,
+             "AuraPolarity":"V",
+             "Subsumed":"Silence",
+             "Themes":"Sound, Wailing Spirit",
+             "Portrait":"BansheeIcon272.png",
+             "Sprint":1.1,
+             "Shield":100,
+             "Polarities":[
+                "V",
+                "V"
+             ],
+             "Introduced":"7",
+             "Image":"BansheeNewLook.png"
+          },
+         "id": "11"  
+      }
+   ]
+}
